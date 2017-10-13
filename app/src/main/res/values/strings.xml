@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MPChart</string>
+    <string name="overView">Overview</string>
+    <string name="insights">Insights</string>
+    <string name="empty">Empty list</string>
+    <string name="seller_mode">Seller Mode</string>
+    <string name="totalearning">Total Earnings This Week</string>
+    <string name="amount">Amount</string>
+    <string name="month_year_format">MMMM dd, yyyy</string>
+    <string name="mondayAmount">Monday</string>
+    <string name="tuesdayAmount">Tuesday</string>
+    <string name="wednesdayAmount">Wednesday</string>
+    <string name="thursdayAmount">Thursday</string>
+    <string name="fridayAmount">Friday</string>
+    <string name="saturdayAmount">Saturday</string>
+    <string name="sundayAmount">Sunday</string>
+    <string name="total_money">Total Money</string>
+    <string name="add_money">Add Money</string>
+    <string name="total">Rs: 0</string>
+    <string name="monday">mondayAmount</string>
+    <string name="tuesday">tuesdayAmount</string>
+    <string name="wednesday">wednesdayAmount</string>
+    <string name="thursday">thursdayAmount</string>
+    <string name="friday">fridayAmount</string>
+    <string name="saturday">saturdayAmount</string>
+    <string name="sunday">sundayAmount</string>
+    <string name="averageEarning">Average Earnings</string>
+</resources>
